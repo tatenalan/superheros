@@ -3,7 +3,7 @@ Running instructions:
 2) Once you cloned the repository, you will need to create a MySQL database
 3) Setup the exercise/.env file
 4) Execute the command: sh scripts/install.sh
-5) Paste the superheros.csv file inside exercise/public/storage
+5) Paste the superheros.csv file inside exercise/public/storage link folder
 
 API endpoints:
 api/superheros/store -> Store all the superheros from csv to database 
